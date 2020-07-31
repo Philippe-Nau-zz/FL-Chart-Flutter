@@ -32,20 +32,6 @@ class Linechart extends StatelessWidget {
     FlSpot(11, 25),
   ];
 
-  final List<FlSpot> allSpots2 = [
-    FlSpot(0, 23),
-    FlSpot(1, 33),
-    FlSpot(2, 28),
-    FlSpot(3, 24),
-    FlSpot(4, 35),
-    FlSpot(5, 30),
-    FlSpot(6, 20),
-    FlSpot(7, 27),
-    FlSpot(8, 36),
-    FlSpot(9, 40),
-    FlSpot(10, 38),
-    FlSpot(11, 24),
-  ];
   @override
   Widget build(BuildContext context) {
     final lineBarsData = [
@@ -85,7 +71,7 @@ class Linechart extends StatelessWidget {
                 return spotIndexes.map((index) {
                   return TouchedSpotIndicatorData(
                     FlLine(
-                      color: Colors.pink,
+                      color: Colors.cyan,
                     ),
                     FlDotData(
                       show: true,
@@ -95,14 +81,14 @@ class Linechart extends StatelessWidget {
                         color: lerpGradient(
                             barData.colors, barData.colorStops, percent / 100),
                         strokeWidth: 2,
-                        strokeColor: Colors.black,
+                        strokeColor: Colors.cyan,
                       ),
                     ),
                   );
                 }).toList();
               },
               touchTooltipData: LineTouchTooltipData(
-                tooltipBgColor: Colors.pink,
+                tooltipBgColor: Colors.cyan,
                 tooltipRoundedRadius: 8,
                 getTooltipItems: (List<LineBarSpot> lineBarsSpot) {
                   return lineBarsSpot.map((lineBarSpot) {
