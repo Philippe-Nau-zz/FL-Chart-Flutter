@@ -27,7 +27,7 @@ class _MyAppState extends State<MyApp> {
       title: 'Fl charts',
       theme: ThemeData(
         brightness: Brightness.light,
-        primaryColor: Colors.deepPurple[800],
+        primaryColor: Colors.indigo[800],
       ),
       darkTheme: ThemeData.dark(),
       themeMode: currentTheme.currentMode(),
