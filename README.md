@@ -9,6 +9,10 @@
 
 ![Click Here](https://i.picasion.com/pic90/b907191251048435f497cf2c0fcf5586.gif)
 
+# Code
+ - [Line Chart](https://github.com/Philippe-Nau/FL-Chart-Flutter/blob/master/lib/widgets/line_chart.dart)
+ - [Bar Chart](https://github.com/Philippe-Nau/FL-Chart-Flutter/blob/master/lib/widgets/bar_chart.dart)
+ - [Pie Chart](https://github.com/Philippe-Nau/FL-Chart-Flutter/blob/master/lib/widgets/pie_chart.dart) - [Indicator](https://github.com/Philippe-Nau/FL-Chart-Flutter/blob/master/lib/widgets/indicator.dart)
 # Let's Get Start
 
 ## Depend on it
