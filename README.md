@@ -5,7 +5,7 @@
 
 # A library to draw charts in Flutter
 
-[![Generic badge](https://img.shields.io/badge/ClickHere-GitPages-red.svg)](https://philippe-nau.github.io/FL-Chart---Flutter/build/web/#/)
+[![Generic badge](https://img.shields.io/badge/ClickHere-GitPages-red.svg)](https://philippe-nau.github.io/FL-Chart-Flutter/build/web/#/)
 
 ![Click Here](https://i.picasion.com/pic90/b907191251048435f497cf2c0fcf5586.gif)
 
