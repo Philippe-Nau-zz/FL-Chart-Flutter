@@ -1,16 +1,26 @@
-# charts
+[![Generic badge](https://img.shields.io/badge/LIB-FL_CHART-1f425f.svg)](https://pub.dev/packages/fl_chart)
+[![made-with-Markdown](https://img.shields.io/badge/Made%20with-Flutter-blue.svg)](https://flutter.dev/)
 
-A new Flutter project.
+![FL_CHART](https://raw.githubusercontent.com/imaNNeoFighT/fl_chart/master/repo_files/images/landing_logo.jpg)
 
-## Getting Started
+# A library to draw charts in Flutter
 
-This project is a starting point for a Flutter application.
+[![Generic badge](https://img.shields.io/badge/ClickHere-GitPages-red.svg)](https://philippe-nau.github.io/FL-Chart---Flutter/build/web/#/)
 
-A few resources to get you started if this is your first Flutter project:
+![Click Here](https://i.picasion.com/pic90/b907191251048435f497cf2c0fcf5586.gif)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+# Let's Get Start
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Depend on it
+
+Add it to your package's pubspec.yaml file
+
+```bash
+dependencies:
+  fl_chart: ^0.11.0
+```
+
+## Install
+```bash
+flutter packages get
+```
